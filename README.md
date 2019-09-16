@@ -1,4 +1,4 @@
-# vue-ssr-demo （这是dev分支）
+# vue-ssr-demo （这是build分支）
 
 > My solid Nuxt.js project
 
